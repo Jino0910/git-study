@@ -18,5 +18,9 @@ class ViewController: UIViewController {
     func function1() {
         
     }
+    
+    func function2() {
+        
+    }
 }
 
