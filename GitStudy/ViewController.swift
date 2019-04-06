@@ -42,5 +42,9 @@ class ViewController: UIViewController {
     func function7() {
         
     }
+    
+    func function9() {
+        
+    }
 }
 
