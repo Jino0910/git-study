@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		61A01CBC2258B13A00983273 /* DevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A01CBB2258B13A00983273 /* DevViewController.swift */; };
+		61A01CC62258B32C00983273 /* Dev2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A01CC52258B32C00983273 /* Dev2ViewController.swift */; };
 		61C411B922523EE300CEA689 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C411B822523EE300CEA689 /* AppDelegate.swift */; };
 		61C411BB22523EE300CEA689 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C411BA22523EE300CEA689 /* ViewController.swift */; };
 		61C411BE22523EE300CEA689 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61C411BC22523EE300CEA689 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		61A01CBB2258B13A00983273 /* DevViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevViewController.swift; sourceTree = "<group>"; };
+		61A01CC52258B32C00983273 /* Dev2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dev2ViewController.swift; sourceTree = "<group>"; };
 		61C411B522523EE300CEA689 /* GitStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61C411B822523EE300CEA689 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61C411BA22523EE300CEA689 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				61C411B822523EE300CEA689 /* AppDelegate.swift */,
 				61C411BA22523EE300CEA689 /* ViewController.swift */,
 				61A01CBB2258B13A00983273 /* DevViewController.swift */,
+				61A01CC52258B32C00983273 /* Dev2ViewController.swift */,
 				61C411BC22523EE300CEA689 /* Main.storyboard */,
 				61C411BF22523EE500CEA689 /* Assets.xcassets */,
 				61C411C122523EE500CEA689 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				61A01CBC2258B13A00983273 /* DevViewController.swift in Sources */,
 				61C411BB22523EE300CEA689 /* ViewController.swift in Sources */,
 				61C411B922523EE300CEA689 /* AppDelegate.swift in Sources */,
+				61A01CC62258B32C00983273 /* Dev2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
