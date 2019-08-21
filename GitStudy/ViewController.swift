@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     
     func function1() {
         
+        
     }
     
     func function2() {
@@ -44,6 +45,10 @@ class ViewController: UIViewController {
     }
     
     func function9() {
+        
+    }
+    
+    func function11() {
         
     }
 }
